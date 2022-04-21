@@ -12,3 +12,6 @@ start with json server
 
 ### `npm start`
 start without json server
+
+
+[FIGMA](https://www.figma.com/file/xjzTGQUtLK7fB1pUXzcYZd/Telegram-X-Redesign-(Community)?node-id=0%3A1)
