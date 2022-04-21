@@ -1,0 +1,16 @@
+@import './assets/scss/consts';
+
+.app{
+  margin: 0 auto;
+  position: relative;
+  width: 414px;
+  height: 896px;
+  background: $c-white;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 44px 1fr;
+
+  overflow: hidden;
+}
+

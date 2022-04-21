@@ -1,0 +1,11 @@
+@import './consts';
+
+@mixin drop-shadow-bubbles {
+  background: $c-gray;
+  box-shadow: $bubble-shadow;
+}
+
+@mixin background-blur {
+  background: $c-gray;
+  filter: $blur-accent;
+}

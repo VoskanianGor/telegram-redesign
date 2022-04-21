@@ -1,0 +1,302 @@
+{
+	"dialogs": [
+		{
+			"id": 1,
+			"name": "Gyllinton",
+			"photo": "https://i.imgur.com/7yUvePI.jpg",
+			"isOnline": true,
+			"isVerified": false,
+			"lastMessage": "I don't know what you're ...",
+			"inMessagesCount": 3,
+			"unreadMessage": false,
+			"time": "15:44"
+		},
+		{
+			"id": 2,
+			"name": "Mark",
+			"photo": "https://i.imgur.com/7yUvePI.jpg",
+			"isOnline": false,
+			"isVerified": false,
+			"lastMessage": "I don't know what you're ...",
+			"inMessagesCount": null,
+			"unreadMessage": true,
+			"time": "15:44"
+		},
+		{
+			"id": 3,
+			"name": "Imogen",
+			"photo": "https://i.imgur.com/7yUvePI.jpg",
+			"isOnline": false,
+			"isVerified": false,
+			"lastMessage": "I don't know what you're ...",
+			"inMessagesCount": null,
+			"unreadMessage": false,
+			"time": "15:44"
+		},
+		{
+			"id": 4,
+			"name": "Alice",
+			"photo": "https://i.imgur.com/7yUvePI.jpg",
+			"isOnline": false,
+			"isVerified": false,
+			"lastMessage": "I don't know what you're ...",
+			"inMessagesCount": null,
+			"unreadMessage": true,
+			"time": "15:44"
+		},
+		{
+			"id": 5,
+			"name": "Cloud",
+			"photo": "https://i.imgur.com/7yUvePI.jpg",
+			"isOnline": true,
+			"isVerified": false,
+			"lastMessage": "I don't know what you're ...",
+			"inMessagesCount": null,
+			"unreadMessage": true,
+			"time": "15:44"
+		},
+		{
+			"id": 6,
+			"name": "Emily",
+			"photo": "https://i.imgur.com/7yUvePI.jpg",
+			"isOnline": false,
+			"isVerified": false,
+			"lastMessage": "I don't know what you're ...",
+			"inMessagesCount": null,
+			"unreadMessage": true,
+			"time": "15:44"
+		},
+		{
+			"id": 7,
+			"name": "Pavel",
+			"photo": "https://i.imgur.com/7yUvePI.jpg",
+			"isOnline": true,
+			"isVerified": false,
+			"lastMessage": "I don't know what you're ...",
+			"inMessagesCount": null,
+			"unreadMessage": true,
+			"time": "15:44"
+		},
+		{
+			"id": 8,
+			"name": "Telegram",
+			"photo": "https://i.imgur.com/7yUvePI.jpg",
+			"isOnline": false,
+			"isVerified": true,
+			"lastMessage": "New login. Dear Evin, we...",
+			"inMessagesCount": null,
+			"unreadMessage": true,
+			"time": "15:44"
+		},
+		{
+			"id": 9,
+			"name": "Music",
+			"photo": "https://i.imgur.com/7yUvePI.jpg",
+			"isOnline": false,
+			"isVerified": false,
+			"lastMessage": "I don't know what you're ...",
+			"inMessagesCount": null,
+			"unreadMessage": true,
+			"time": "15:44"
+		},
+		{
+			"id": 10,
+			"name": "Video",
+			"photo": "https://i.imgur.com/7yUvePI.jpg",
+			"isOnline": false,
+			"isVerified": false,
+			"lastMessage": "I don't know what you're ...",
+			"inMessagesCount": null,
+			"unreadMessage": true,
+			"time": "15:44"
+		}
+	],
+	"chat": [
+		{
+			"id": 1,
+			"name": "Mark",
+			"messages": [
+				{
+					"id": 1241424,
+					"type": "in",
+					"sendTime": "1649860823523",
+					"date": "10:48",
+					"body": "lorem ipsum"
+				},
+				{
+					"id": 1241425,
+					"type": "in",
+					"sendTime": "1649860908960",
+					"date": "10:54",
+					"body": "work hard and play hard do not be afraid to fail"
+				},
+				{
+					"id": 1241426,
+					"type": "in",
+					"sendTime": "1650102614950",
+					"date": "10:54",
+					"body": "work hard and play hard do not be afraid to fail"
+				},
+				{
+					"id": "PZeJpJ6",
+					"type": "out",
+					"sendTime": 1650105175219,
+					"date": "16.04.2022",
+					"body": "asd"
+				},
+				{
+					"id": "G_UhLag",
+					"type": "out",
+					"sendTime": 1650105177628,
+					"date": "16.04.2022",
+					"body": "qwd"
+				},
+				{
+					"id": "V1_73dh",
+					"type": "out",
+					"sendTime": 1650105560420,
+					"date": "16.04.2022",
+					"body": "asdfs"
+				},
+				{
+					"id": "cs2BeWY",
+					"type": "out",
+					"sendTime": 1650105564454,
+					"date": "16.04.2022",
+					"body": "ewfsdf"
+				},
+				{
+					"id": "1WbKuvv",
+					"type": "out",
+					"sendTime": 1650105568248,
+					"date": "16.04.2022",
+					"body": "3fewef"
+				},
+				{
+					"id": "s8M3y12",
+					"type": "out",
+					"sendTime": 1650105572691,
+					"date": "16.04.2022",
+					"body": "ijk"
+				},
+				{
+					"id": "_EgrAN3",
+					"type": "out",
+					"sendTime": 1650106507943,
+					"date": "16.04.2022",
+					"body": "sf",
+					"idd": 1
+				},
+				{
+					"id": "Fcx3q1g",
+					"type": "out",
+					"sendTime": 1650106533085,
+					"date": "16.04.2022",
+					"body": "we",
+					"idd": 1
+				},
+				{
+					"id": "bUj97PW",
+					"type": "out",
+					"sendTime": 1650106711415,
+					"date": "16.04.2022",
+					"body": "sdf",
+					"idd": 1
+				},
+				{
+					"id": "MMG8Usa",
+					"type": "out",
+					"sendTime": 1650106932248,
+					"date": "16.04.2022",
+					"body": "qwd"
+				},
+				{
+					"id": "n8zVN44",
+					"type": "out",
+					"sendTime": 1650106934686,
+					"date": "16.04.2022",
+					"body": "qwd"
+				},
+				{
+					"id": "m6cuPhy",
+					"type": "out",
+					"sendTime": 1650106937140,
+					"date": "16.04.2022",
+					"body": "2qdw"
+				},
+				{
+					"id": "joloY75",
+					"type": "out",
+					"sendTime": 1650107028331,
+					"date": "16.04.2022",
+					"body": "23efk"
+				},
+				{
+					"id": "gtidF3z",
+					"type": "out",
+					"sendTime": 1650127916720,
+					"date": "16.04.2022",
+					"body": "asd"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Mark",
+			"messages": [
+				{
+					"id": 1241424,
+					"type": "in",
+					"sendTime": "1649860823523",
+					"date": "10:48",
+					"body": "lorem ipsum"
+				},
+				{
+					"id": 1241425,
+					"type": "in",
+					"sendTime": "1649860908960",
+					"date": "10:54",
+					"body": "work hard and play hard do not be afraid to fail"
+				},
+				{
+					"id": "iz23ewT",
+					"type": "out",
+					"sendTime": 1650106513400,
+					"date": "16.04.2022",
+					"body": "sdf",
+					"idd": 1
+				},
+				{
+					"id": "vGGWCLK",
+					"type": "out",
+					"sendTime": 1650106516757,
+					"date": "16.04.2022",
+					"body": "3wef",
+					"idd": 1
+				},
+				{
+					"id": "Qn6xkY8",
+					"type": "out",
+					"sendTime": 1650106528831,
+					"date": "16.04.2022",
+					"body": "sdf",
+					"idd": 1
+				},
+				{
+					"id": "g_LItdW",
+					"type": "out",
+					"sendTime": 1650106927550,
+					"date": "16.04.2022",
+					"body": "asd"
+				},
+				{
+					"id": "EGiuwru",
+					"type": "out",
+					"sendTime": 1650107034195,
+					"date": "16.04.2022",
+					"body": "wefksdf"
+				}
+			]
+		}
+	]
+}
